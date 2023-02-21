@@ -1,0 +1,1 @@
+{"Car":"Chevy S-10","MPG":31,"Cylinders":4,"Displacement":119,"Weight":82,"Acceleration":2720,"Horsepower":19.4,"Model":82,"Origin":"US"}
