@@ -3,8 +3,8 @@ package controllers
 import (
 	"log"
 
-	"github.com/arakyn/Assignment/01-Task/Inits"
-	"github.com/arakyn/Assignment/01-Task/structures"
+	"github.com/Arakyn/Assignment/01-Task/Inits"
+	"github.com/Arakyn/Assignment/01-Task/structures"
 	"github.com/gin-gonic/gin"
 )
 

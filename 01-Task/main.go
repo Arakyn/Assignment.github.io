@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/arakyn/Assignment/01-Task/Inits"
-	"github.com/arakyn/Assignment/01-Task/controllers"
+	"github.com/Arakyn/Assignment/01-Task/Inits"
+	"github.com/Arakyn/Assignment/01-Task/controllers"
 	"github.com/gin-gonic/gin"
 )
 
